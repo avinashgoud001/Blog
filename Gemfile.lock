@@ -158,7 +158,7 @@ DEPENDENCIES
   jquery-rails
   mysql2 (>= 0.3.18, < 0.5)
   rails (= 4.2.6)
-  sass-rails (= 4.0.0)
+  sass-rails
   sdoc (~> 0.4.0)
   spring
   turbolinks
